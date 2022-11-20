@@ -20,3 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+# Note
+This repo contains in a master branch upgrading from react router V5 to V6, Please visit it if you want to check
