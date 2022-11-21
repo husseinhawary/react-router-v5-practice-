@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public/react-router-practice-4d479",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
